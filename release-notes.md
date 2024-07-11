@@ -15,7 +15,7 @@ For a list of supported configurations and operations, refer to the NewStore RES
 | Application/Service | Version |
 |----------|----------|
 | Anypoint Studio | 7 and later  |
-| Mule Runtime    | 4.4.0 or later   |
+| Mule Runtime    | 4.3.0 or later   |
 | NewStore API    | June 2023 and later   |
 | Java  | 8, 11 and 17  |
 
