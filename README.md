@@ -21,3 +21,5 @@ To use the NewStore connector in a live production environment, you must either 
 # About AbsoluteLabs
 AbsoluteLabs provides business & technology consulting and digital transformation services to leading enterprises across customer-centric industries.
 We help clients stay competitive and innovative by anticipating rapidly changing customer behaviours and market dynamics.
+
+Unlock your organisation's full potential with our holistic consulting services.  We partner with you to achieve breakthrough results, optimise operations, and harness the power of technology. Our tailored strategies, data-driven insights, and deep industry expertise empower you to navigate complex challenges, drive innovation, and achieve sustainable growth in an ever-evolving global landscape.
