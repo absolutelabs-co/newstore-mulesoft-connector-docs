@@ -9,11 +9,15 @@ NewStore offers an Omnichannel-as-a-Service platform for retail brands, integrat
 For more information, visit the [NewStore](https://www.newstore.com/)
 
 # About MuleSoft Certified Connectors
-MuleSoft Certified Connectors are developed by MuleSoft’s partners and developer community. These connectors have been reviewed and certified by MuleSoft. To receive assistance or support for it, contact AbsoluteLabs directly at contact@absolutelabs.co (+44)(7459857122) , MuleSoft disclaims any support obligation for MuleSoft Certified Connectors.
+MuleSoft Certified Connectors, including the NewStore Connector, are created by MuleSoft's partners and community developers and have been officially reviewed and certified by MuleSoft. 
 
-By installing this connector, you consent to MuleSoft sharing your contact information with the developer of this connector so that you can receive more information about it directly from the developer.
 
-To utilize the NewStore Connector or any part of its code, it must be acquired and licensed through AbsoluteLabs, or bundled with services from AbsoluteLabs. Upon licensing the software or purchasing services, support and maintenance will be provided in accordance with the terms and conditions of the contract.
+If you need help with the connector contact AbsoluteLabs directly at  [Contact us | Absolutelabs](https://www.absolutelabs.co/contact-us). MuleSoft does not provide support for these connectors.
+
+Installing this connector means you agree to let MuleSoft share your contact details with AbsoluteLabs (the connector's developer) so they can send you more information. You can try the connector for free, but you cannot use it in a live production environment. 
+
+To use the NewStore connector in a live production environment, you must either buy a license from AbsoluteLabs or get it as part of a service package from them. Once you've purchased a license or service package, you'll receive support and maintenance according to the terms of your contract.
 
 # About AbsoluteLabs
-AbsoluteLabs helps businesses adapt to evolving markets, optimize customer experiences, and achieve breakthrough results. AbsoluteLabs provides technology consulting and digital transformation services to leading brands across customer-centric industries. We help clients stay competitive and innovative by anticipating rapidly changing customer behaviors and market dynamics. Our deep expertise, honed within the business sector, gives us a unique advantage in understanding complex business challenges and delivering tailored solutions. We empower our clients to stay relevant, rapidly adapt, and innovate in a digital consumer era.
+AbsoluteLabs provides business & technology consulting and digital transformation services to leading enterprises across customer-centric industries.
+We help clients stay competitive and innovative by anticipating rapidly changing customer behaviours and market dynamics.
