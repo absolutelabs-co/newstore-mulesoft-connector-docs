@@ -3,12 +3,10 @@ The NewStore Connector enables seamless integration of a Mule application with t
 User Guide: NewStore Connector Guide
 Connector Reference: NewStore Connector Reference
 
-# 1.0.0
+# 1.0.1
 
 ## What’s New
-
-This new MuleSoft connector is designed for customer-related operations within NewStore.
-For a list of supported configurations and operations, refer to the NewStore REST Connector Reference Guide.
+Changed the connector extension XML prefix from ‘newstore’ to ‘new-store’ to avoid conflict with the other newstore connector.
 
 # Compatibility
 
